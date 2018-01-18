@@ -1,2 +1,2 @@
 # GAN-tutorial
-GAN의 튜토리얼
+Tutorial on GAN and DCGAN in PyTorch
